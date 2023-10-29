@@ -13,7 +13,7 @@ name                     : &name "Jaivardhan Shukla"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "http://jaivardhanshukla.me/portfolio/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jaivardhan Shukla"
   avatar           : "profile.png"
-  bio              : "B.Tech student in Mining Engineering, passionate about Machine Learning, AR/VR/XR,Deep learning, Astronomy, and Mobile and web application development."
-  location         : "Location"
+  bio              : "Currently studying at Visvesvaraya National Institute of Technology Nagpur, I am deeply passionate about Machine Learning, AR/VR/XR technologies, Deep Learning, Astronomy, and Mobile and Web Application Development."
+  location         : "Nagpur, Maharashtra, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
-  email            :
+  email            :  "bt21min006@students.vnit.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jaivsh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jaivardhan-shukla-3633a2190/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
